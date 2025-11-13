@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "question": "What is React?",
+    "options": [
+      { "id": "a", "text": "A programming language" },
+      { "id": "b", "text": "A JavaScript library" },
+      { "id": "c", "text": "A database" },
+      { "id": "d", "text": "An operating system" }
+    ],
+    "correctAnswers": ["b"]
+  },
+  {
+    "id": 2,
+    "question": "Which hook is used for managing state in functional components?",
+    "options": [
+      { "id": "a", "text": "useEffect" },
+      { "id": "b", "text": "useState" },
+      { "id": "c", "text": "useContext" },
+      { "id": "d", "text": "useReducer" }
+    ],
+    "correctAnswers": ["b"]
+  }
+]
